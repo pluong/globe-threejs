@@ -1,0 +1,15 @@
+{
+  "name": "globe-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Luong",
+  "license": "ISC",
+  "dependencies": {
+    "globe.gl": "^2.26.12",
+    "three": "^0.148.0"
+  }
+}
